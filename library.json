@@ -1,0 +1,35 @@
+[
+  {
+    "title":"python Crash Course",
+    "author":"Eric Mathes",
+    "publication_year":2019,
+    "genre":"programing",
+    "read_status":false,
+    "add_data":"2025-03-11 11:36:40"
+  },
+  {
+     "title":"Automate the boring stuff with python",
+    "author":"Fiza Sagar",
+    "publication_year":2011,
+    "genre":"programing",
+    "read_status":true,
+    "add_data":"2025-02-15 10:16:40"
+  },
+  {
+     "title":"Easy Way Python",
+    "author":"James Clark",
+    "publication_year":2022,
+    "genre":"programing",
+    "read_status":false,
+    "add_data":"2025-03-20 10:26:40"
+  },
+  {
+     "title":"Python Get Look",
+    "author":"Micheal George",
+    "publication_year":2023,
+    "genre":"programing",
+    "read_status":true,
+    "add_data":"2025-04-10 05:26:40"
+  },
+ ]
+  
